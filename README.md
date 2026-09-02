@@ -45,17 +45,6 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EqrthX&show_icons=true&theme=tokyonight&count_private=true" alt="Nontprawitch's GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EqrthX&theme=tokyonight" alt="Nontprawitch's Streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EqrthX&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</p>
-
 ## 📫 Let's Connect!
 
 - 🌐 **Portfolio:** [portfolio-nontprawitch.vercel.app](https://portfolio-nontprawitch.vercel.app/#/)
